@@ -41,7 +41,7 @@ Rodar no android:
 $ yarn android
 ```
 
-#####Tudo pronto!
+<p><strong>Tudo pronto!</strong></p>
 
 <h2 id="license">Licença</h2>
 
